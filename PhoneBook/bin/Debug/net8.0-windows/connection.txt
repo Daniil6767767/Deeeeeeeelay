@@ -1,0 +1,5 @@
+localhost
+5432
+MyDataBase
+user1
+12345678
